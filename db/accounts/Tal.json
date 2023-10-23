@@ -1,0 +1,53 @@
+{
+    "Harry Potter and the Deathly Hallows: Part 2": {
+        "rate": 8.1,
+        "year": 2011,
+        "director": "David Yates",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "trailer_id": "5NYt1qirBWg",
+        "note": "woooow"
+    },
+    "120": {
+        "rate": 7.2,
+        "year": 2008,
+        "director": "\u00d6zhan Eren, Murat Sara\u00e7oglu",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTdlNjhjMGQtNDQ2ZC00M2FlLThiMjAtMjZkNzhlYjZmMDA3XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SX300.jpg",
+        "trailer_id": "jxtsWjQRa3E"
+    },
+    "Titanic": {
+        "rate": 7.9,
+        "year": 1997,
+        "director": "James Cameron",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "trailer_id": "CHekzSiZjrY",
+        "note": "love story"
+    },
+    "Love": {
+        "rate": 6.1,
+        "year": 2015,
+        "director": "Gaspar No\u00e9",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGQxZTFlZDctZjcyMy00NzA1LWFkMDYtNzRmZTkwYTFhYTc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "trailer_id": "OsTSh2zjRYA"
+    },
+    "The Girl Next Door": {
+        "rate": 6.7,
+        "year": 2004,
+        "director": "Luke Greenfield",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODIyMzE1N15BMl5BanBnXkFtZTcwODEwODczMw@@._V1_SX300.jpg",
+        "trailer_id": "F9p_zENS4EA"
+    },
+    "Baby": {
+        "rate": 7.9,
+        "year": 2015,
+        "director": "Neeraj Pandey",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTdhNjBjZDctYTlkYy00ZGIxLWFjYTktODk5ZjNlMzI4NjI3XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_SX300.jpg",
+        "trailer_id": "-Yu_2nyOP5o"
+    },
+    "Hallow": {
+        "rate": 6.6,
+        "year": 2012,
+        "director": "Joe DiCanio",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjllZjZlMDktOTFlNC00ZjllLWI2NGQtNTA0Y2JkNzE0NDlhXkEyXkFqcGdeQXVyNTEwNjU1MjU@._V1_SX300.jpg",
+        "trailer_id": "E2BDXdzI5YE"
+    }
+}
